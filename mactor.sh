@@ -11,5 +11,3 @@ sleep 2
 clear
 sudo ifconfig wlp0s20f3 up || ifconfig wlan0 up
 service tor start
-
-
