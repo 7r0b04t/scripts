@@ -9,4 +9,3 @@ done
 
 anonsurf myip
 sleep 2
-
